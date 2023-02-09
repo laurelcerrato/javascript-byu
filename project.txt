@@ -1,0 +1,2 @@
+For my project idea I will use two API's, one to get a random fact about cats, and one to get a random cat image.
+So it will be a random cat facts and images generator.
